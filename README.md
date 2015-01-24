@@ -1,2 +1,1 @@
-# Withdraw
-Withdraw money from your bank account on to a physical item.
+This is only used for the Issue Tracker.
